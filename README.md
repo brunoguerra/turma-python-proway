@@ -7,7 +7,7 @@
 * controle de fluxo
 * estrutura de repetição
 
-### 21/11
+### 22/11
 
 * estrutura de dados lista, tuplas e dicionários
 * como chamar o script em python no windows
