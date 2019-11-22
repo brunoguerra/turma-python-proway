@@ -21,7 +21,8 @@ TIP >
 
 Resolução >
 
-
+Exercício 2:
+Pegar a lista anterior e multiplicar cada item por 2, retornar a nova lista.
 
 # Anything after a hash character on the same row is a comment
 
