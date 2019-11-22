@@ -14,6 +14,12 @@
 * como fazer um script útil
 
 
+Exercício:
+Criar uma lista com 10 números inteiros e preencher com a entrada do usuário com números e remover o impáres.
+
+TIP > 
+
+Resolução >
 
 
 
