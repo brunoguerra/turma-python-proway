@@ -54,15 +54,31 @@ Exercício 3: Adicione uma lista para cada categoria 'perifericos', 'gabinete', 
 
 Desafio: tente criar a lista do segundo exercício em uma linha
 
-# Anything after a hash character on the same row is a comment
+# Tratamento de erros
 
-# (unless the hash is in a string)
+Escreva um script em Python que pergunte ao usuário dois números. Divida o primeiro pelo segundo. Trate as exceções para que o programa não lance exceções não formatadas.
+
+Desafio: Diga o erro
+
+---
+Escreva um script em Python que pegue 3 números. Caso menor que 10 em algum dos valores, lance uma exceção: `raise Exception('número menor')`.
+Imprima a média dos valores caso tudo esteja correto.
+
+Trate essa exceção e imprima uma outra mensagem.
+
+---
+
+
+
+#### Anything after a hash character on the same row is a comment
+
+#### (unless the hash is in a string)
 
  
 
-# The very top row of #!/usr/bin/env python is not relevant for Windows users.
+#### The very top row of #!/usr/bin/env python is not relevant for Windows users.
 
-# On unix/linux however, it indicates which program to use to run the script.
+#### On unix/linux however, it indicates which program to use to run the script.
 
  
 
