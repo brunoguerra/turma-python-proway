@@ -25,11 +25,12 @@ Exercício 2:
 Pegar a lista anterior e multiplicar cada item por 2, retornar a nova lista.
 
 
-Exercício 1: Colete 10 nomes, solicitando entrada do usuário, inverta todos os nomes e exiba a lista com os 10 itens.
+# Exercício dia 3
+*Exercício 1*: Colete 10 nomes, solicitando entrada do usuário, inverta todos os nomes e exiba a lista com os 10 itens.
 
-Exercício 2: Colete N nomes, solicitando entrada do usuário, troque a primeira letra pela última dos nomes, exiba a lista com os N itens, onde o N foi inserido pelo usuário.
+*Exercício 2*: Colete N nomes, solicitando entrada do usuário, troque a primeira letra pela última dos nomes, exiba a lista com os N itens, onde o N foi inserido pelo usuário.
 
-Desafio: Faça agora os exercícios em menos linhas e comandos
+*Desafio*: Faça agora os exercícios em menos linhas e comandos
 
 # Anything after a hash character on the same row is a comment
 
