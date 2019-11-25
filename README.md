@@ -25,28 +25,7 @@ Exercício 2:
 Pegar a lista anterior e multiplicar cada item por 2, retornar a nova lista.
 
 
-# .
-# .
-
-Exercício 1: Crie um dicionário com nomes de frutas nas chaves, códigos nos valores. Capture um nome de fruta do usuário, exiba o código correspondente. Caso não exista, mostre na mensagem.
-
-Exercício 2: Crie dois dicionários:
-
-  ```
-  aluno1 = { 'nome': 'Robero', 'idade': 38 }
-  aluno2 = { 'nome': 'Manuela', 'idade': 42 }
-  ```
-
-Adicione esses dois dicionarios na lista `alunos`.
-Remova o mais novo.
-
-Exiba a Linha
-
-Exercício 3: Adicione uma lista para cada categoria 'perifericos', 'gabinete', 'tela' em um dicionário. Adicione 6 numero na lista.
-
-
 Desafio: tente criar a lista do segundo exercício em uma linha
-
 
 # Exercício dia 3
 *Exercício 1*: Colete 10 nomes, solicitando entrada do usuário, inverta todos os nomes e exiba a lista com os 10 itens.
