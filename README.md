@@ -55,6 +55,26 @@ Desafio: tente criar a lista do segundo exercício em uma linha
 
 *Desafio*: Faça agora os exercícios em menos linhas e comandos
 
+
+Exercício 1: Crie um dicionário com nomes de frutas nas chaves, códigos nos valores. Capture um nome de fruta do usuário, exiba o código correspondente. Caso não exista, mostre na mensagem.
+
+Exercício 2: Crie dois dicionários:
+
+  ```
+  aluno1 = { 'nome': 'Robero', 'idade': 38 }
+  aluno2 = { 'nome': 'Manuela', 'idade': 42 }
+  ```
+
+Adicione esses dois dicionarios na lista `alunos`.
+Remova o mais novo.
+
+Exiba a Linha
+
+Exercício 3: Adicione uma lista para cada categoria 'perifericos', 'gabinete', 'tela' em um dicionário. Adicione 6 números na lista. Some os menores valores de cada categoria.
+
+
+Desafio: tente criar a lista do segundo exercício em uma linha
+
 # Anything after a hash character on the same row is a comment
 
 # (unless the hash is in a string)
