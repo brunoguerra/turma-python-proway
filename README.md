@@ -7,25 +7,78 @@
 * controle de fluxo
 * estrutura de repetição
 
-### 21/11
+### 22/11
 
 * estrutura de dados lista, tuplas e dicionários
 * como chamar o script em python no windows
 * como fazer um script útil
 
 
+Exercício:
+Criar uma lista com 10 números inteiros e preencher com a entrada do usuário com números e remover o impáres.
+
+TIP > 
+
+Resolução >
+
+Exercício 2:
+Pegar a lista anterior e multiplicar cada item por 2, retornar a nova lista.
+
+
+Desafio: tente criar a lista do segundo exercício em uma linha
+
+# Exercício dia 3
+*Exercício 1*: Colete 10 nomes, solicitando entrada do usuário, inverta todos os nomes e exiba a lista com os 10 itens.
+
+*Exercício 2*: Colete N nomes, solicitando entrada do usuário, troque a primeira letra pela última dos nomes, exiba a lista com os N itens, onde o N foi inserido pelo usuário.
+
+*Desafio*: Faça agora os exercícios em menos linhas e comandos
+
+
+Exercício 1: Crie um dicionário com nomes de frutas nas chaves, códigos nos valores. Capture um nome de fruta do usuário, exiba o código correspondente. Caso não exista, mostre na mensagem.
+
+Exercício 2: Crie dois dicionários:
+
+  ```
+  aluno1 = { 'nome': 'Robero', 'idade': 38 }
+  aluno2 = { 'nome': 'Manuela', 'idade': 42 }
+  ```
+
+Adicione esses dois dicionarios na lista `alunos`.
+Remova o mais novo.
+
+Exiba a Linha
+
+Exercício 3: Adicione uma lista para cada categoria 'perifericos', 'gabinete', 'tela' em um dicionário. Adicione 6 números na lista. Some os menores valores de cada categoria.
+
+
+Desafio: tente criar a lista do segundo exercício em uma linha
+
+# Tratamento de erros
+
+Escreva um script em Python que pergunte ao usuário dois números. Divida o primeiro pelo segundo. Trate as exceções para que o programa não lance exceções não formatadas.
+
+Desafio: Diga o erro
+
+---
+Escreva um script em Python que pegue 3 números. Caso menor que 10 em algum dos valores, lance uma exceção: `raise Exception('número menor')`.
+Imprima a média dos valores caso tudo esteja correto.
+
+Trate essa exceção e imprima uma outra mensagem.
+
+---
 
 
 
-# Anything after a hash character on the same row is a comment
+#### Anything after a hash character on the same row is a comment
 
-# (unless the hash is in a string)
+#### (unless the hash is in a string)
 
  
 
-# The very top row of #!/usr/bin/env python is not relevant for Windows users.
+#### The very top row of #!/usr/bin/env python is not relevant for Windows users.
 
-# On unix/linux however, it indicates which program to use to run the script.
+#### On unix/linux however, it indicates which program to use to run the script.
 
  
 
