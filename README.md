@@ -80,7 +80,7 @@ Trate essa exceção e imprima uma outra mensagem.
 Desafio: Coloque as restrições numa tupla
 
 
-### Crie um script que colete 10 nomes, reverta a ordem dos items na metade da lista, na parte final. Coloque todos os 5 primeiros com letras maísculas no começo da lista.
+### Crie um script que colete 10 nomes, reverta a ordem dos items da metade da lista, na parte final. Coloque todos os 5 primeiros com letras maísculas nas suas palavras, da metada da lista, nos itens do começo da lista.
 
 
 
