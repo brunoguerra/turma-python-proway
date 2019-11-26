@@ -84,6 +84,8 @@ Desafio: Coloque as restrições numa tupla
 
 
 
+# Crie um script que tenha uma tupla nomes de categorias, uma tupla com nomes em restrições. Colete 5 valores do usuário, verifique se não está na restrição e está presente nas categorias, caso sim, exiba o acerto.
+
 
 
 #### Anything after a hash character on the same row is a comment
