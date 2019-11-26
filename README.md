@@ -70,17 +70,17 @@ Trate essa exceção e imprima uma outra mensagem.
 
 # Revisão: Atribuição, for para listas, e API da lista no Python
 
-crie um script que colete 5 números do usuário.
+### crie um script que colete 5 números do usuário.
   1) Exiba o maior.
   2) Exiba o menor.
   3) Diga a média dos valores.
   
-crie um script que colete cinco nomes de frutas, não aceite nem laranja e nem banana.
+### crie um script que colete cinco nomes de frutas, não aceite nem laranja e nem banana.
 
 Desafio: Coloque as restrições numa tupla
 
 
-Crie um script que colete 10 nomes, reverta a ordem dos items na metade da lista, na parte final. Coloque todos os 5 primeiros com letras maísculas no começo da lista.
+### Crie um script que colete 10 nomes, reverta a ordem dos items na metade da lista, na parte final. Coloque todos os 5 primeiros com letras maísculas no começo da lista.
 
 
 
