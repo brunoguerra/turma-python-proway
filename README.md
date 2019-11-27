@@ -106,6 +106,17 @@ Desafio: Coloque as restrições numa tupla
 
 Colete a idade do usuário
 
+---
+* Colete 3 notas do usuário, mais uma nota do trabalho, caso a médias das notas seja menor ou igual a 7.
+
+Caso a média das provas seja menor que 7 e o trabalho menor que 8, exiba que o aluno está Reprovado.
+
+Caso a média das provas seja maior ou igual que 7, exiba que o aluno foi aprovado.
+
+Caso a média seja igual a 9, parabenize a dedicação e o sucesso do aluno.
+
+Se a média das provas for 10, informe que ele estará no Hall of fame of Python.
+
 # .
 # .
 
