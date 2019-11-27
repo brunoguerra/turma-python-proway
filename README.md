@@ -68,6 +68,24 @@ Trate essa exceção e imprima uma outra mensagem.
 
 ---
 
+# Revisão: Atribuição, for para listas, e API da lista no Python
+
+### crie um script que colete 5 números do usuário.
+  1) Exiba o maior.
+  2) Exiba o menor.
+  3) Diga a média dos valores.
+  
+### crie um script que colete cinco nomes de frutas, não aceite nem laranja e nem banana.
+
+Desafio: Coloque as restrições numa tupla
+
+
+### Crie um script que colete 10 nomes, reverta a ordem dos items da metade da lista, na parte final. Coloque todos os 5 primeiros com letras maísculas nas suas palavras, da metada da lista, nos itens do começo da lista.
+
+
+
+# Crie um script que tenha uma tupla nomes de categorias, uma tupla com nomes em restrições. Colete 5 valores do usuário, verifique se não está na restrição e está presente nas categorias, caso sim, exiba o acerto.
+
 
 
 #### Anything after a hash character on the same row is a comment
