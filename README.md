@@ -97,6 +97,10 @@ Desafio: Coloque as restrições numa tupla
 ### Crie um script que receba uma entrada do usuário, converta em inteiro ou float, ou permaneça em texto. Exiba o valor e o tipo de dados que nosso script inferiu.
 
 
+# .
+# .
+
+
 #### Anything after a hash character on the same row is a comment
 
 #### (unless the hash is in a string)
