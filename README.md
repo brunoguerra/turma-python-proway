@@ -99,10 +99,8 @@ Desafio: Coloque as restrições numa tupla
 ## Estrutura de decisão
 
 * Crie um script que colete 3 notas do usuário, faça a média, caso a média seja maior que sete 'Aprovado', se menor 'Reprovado' e se for igual a 10 aprovado com distinção.
-
-* Crie um script que oferte tiquetes para entrada na festa com diferança para idades. Se acima de 50 e até as 22:00 entrada gratuita, após isso paga 70% do valor da entrada.
 ---
-* Abaixo dos 50 anos e até as 22 horas, tem desconto de 20%, caso contrário, pagam o valor integral R$ 100,00.
+* Crie um script que oferte tiquetes para entrada na festa com diferança para idades. Se acima de 50 e até as 22:00 entrada gratuita, após isso paga 70% do valor da entrada. Abaixo dos 50 anos e até as 22 horas, tem desconto de 20%, caso contrário, pagam o valor integral R$ 100,00.
 Obs: Colete a hora em um inteiro do usuário. Colete a sexo do cliente.
 
 Colete a idade do usuário
