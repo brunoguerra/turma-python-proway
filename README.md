@@ -86,6 +86,15 @@ Desafio: Coloque as restrições numa tupla
 
 # Crie um script que tenha uma tupla nomes de categorias, uma tupla com nomes em restrições. Colete 5 valores do usuário, verifique se não está na restrição e está presente nas categorias, caso sim, exiba o acerto.
 
+# 27/11
+
+### Crie um script que declare uma função, receba um parâmetro e diga o tipo que foi passado em uma mensagem.
+
+### Crie um script que declare uma função, receba um parâmetro, lance uma execeção caso o tipo não esteja na tupla:
+
+```accepted_types = (int, float)```
+
+### Crie um script que receba uma entrada do usuário, converta em inteiro ou float, ou permaneça em texto. Exiba o valor e o tipo de dados que nosso script inferiu.
 
 
 #### Anything after a hash character on the same row is a comment
