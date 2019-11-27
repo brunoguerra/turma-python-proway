@@ -96,6 +96,15 @@ Desafio: Coloque as restrições numa tupla
 
 ### Crie um script que receba uma entrada do usuário, converta em inteiro ou float, ou permaneça em texto. Exiba o valor e o tipo de dados que nosso script inferiu.
 
+## Estrutura de decisão
+
+### Crie um script que colete 3 notas do usuário, faça a média, caso a média seja maior que sete 'Aprovado', se menor 'Reprovado' e se for igual a 10 aprovado com distição.
+
+### Crie um script que oferte tiquetes para entrada na festa com diferança para idades. Se acima de 50 e até as 22:00 entrada gratuita, após isso paga 70% do valor da entrada.
+Abaixo de 50 anos e até as 22 horas, tem desconto de 20%, caso contrário, pagam o valor integral R$ 100,00.
+Colete a hora em um inteiro do usuário. Colete a sexo do cliente.
+
+Colete a idade do usuário
 
 # .
 # .
