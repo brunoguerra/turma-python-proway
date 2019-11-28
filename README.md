@@ -123,6 +123,8 @@ Se a média das provas for 10, informe que ele estará no Hall of fame of Python
 
 # Orientação a objetos
 
+![Diagrama](http://3.bp.blogspot.com/-LwHPbhELtqY/VQpZ7FBbbcI/AAAAAAAAB9E/S8D7i47wdLM/s1600/uml_Class.jpg)
+
 1) A partir do nosso modelo de classes em nosso diagrama. Declare as classes e seus membros de instância. Implemente os comportamentos imprimindo a mensagem do que eles faze.
 
 2) Continuando a questão anterior, agora acrescente o comportamento para adicionar endereço para as pessoas.
