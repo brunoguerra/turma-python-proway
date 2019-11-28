@@ -121,7 +121,14 @@ Caso a média seja igual a 9, parabenize a dedicação e o sucesso do aluno.
 
 Se a média das provas for 10, informe que ele estará no Hall of fame of Python.
 
-# .
+# Orientação a objetos
+
+1) A partir do nosso modelo de classes em nosso diagrama. Declare as classes e seus membros de instância. Implemente os comportamentos imprimindo a mensagem do que eles faze.
+
+2) Continuando a questão anterior, agora acrescente o comportamento para adicionar endereço para as pessoas.
+
+3) Implemente o comportamento de saber se o aluno está alegível, caso a marca média dele seja maior que 70.
+
 # .
 
 
