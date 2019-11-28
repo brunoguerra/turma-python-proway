@@ -136,10 +136,11 @@ Se a média das provas for 10, informe que ele estará no Hall of fame of Python
 
 4) Dada a lista = [12, -2, 4, 8, 29, 45, 78, 36, -17, 2, 12, 8, 3, 3, -52] faça um programa que:
 
-  a)  imprima o número de ocorrências do primeiro elemento da lista
-  b) imprima a soma dos elementos de valor negativo
+  . a) imprima o número de ocorrências do primeiro elemento da lista
+  . b) imprima a soma dos elementos de valor negativo
 
-# .
+5) Declare uma Class com nome MeuNumero. Declare uma função para receber o valor. Declare uma função para retornar seu valor.
+  Usando a lista anterior, faça uma lista de objetos do tipo MeuNumero, com valor correspodente ao item da lista anterior.
 
 
 #### Anything after a hash character on the same row is a comment
