@@ -131,6 +131,14 @@ Se a média das provas for 10, informe que ele estará no Hall of fame of Python
 
 3) Implemente o comportamento de saber se o aluno está alegível, caso a marca média dele seja maior que 70.
 
+
+### Revisão Estrutura de Dados
+
+4) Dada a lista = [12, -2, 4, 8, 29, 45, 78, 36, -17, 2, 12, 8, 3, 3, -52] faça um programa que:
+
+  a)  imprima o número de ocorrências do primeiro elemento da lista
+  b) imprima a soma dos elementos de valor negativo
+
 # .
 
 
