@@ -121,9 +121,36 @@ Caso a média seja igual a 9, parabenize a dedicação e o sucesso do aluno.
 
 Se a média das provas for 10, informe que ele estará no Hall of fame of Python.
 
-# .
-# .
+# Orientação a objetos
 
+![Diagrama](http://3.bp.blogspot.com/-LwHPbhELtqY/VQpZ7FBbbcI/AAAAAAAAB9E/S8D7i47wdLM/s1600/uml_Class.jpg)
+
+1) A partir do nosso modelo de classes em nosso diagrama. Declare as classes e seus membros de instância. Implemente os comportamentos imprimindo a mensagem do que eles faze.
+
+2) Continuando a questão anterior, agora acrescente o comportamento para adicionar endereço para as pessoas.
+
+3) Implemente o comportamento de saber se o aluno está alegível, caso a marca média dele seja maior que 70.
+
+
+### Revisão Estrutura de Dados
+
+4) Dada a lista = [12, -2, 4, 8, 29, 45, 78, 36, -17, 2, 12, 8, 3, 3, -52] faça um programa que:
+
+  . a) imprima o número de ocorrências do primeiro elemento da lista
+  . b) imprima a soma dos elementos de valor negativo
+
+5) Declare uma Class com nome MeuNumero. Declare uma função para receber o valor. Declare uma função para retornar seu valor.
+  Usando a lista anterior, faça uma lista de objetos do tipo MeuNumero, com valor correspodente ao item da lista anterior.
+
+
+### Revisão Estrutura de Dados - Listas
+
+Utilizando listas faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+"Telefonou para a vítima?"
+"Esteve no local do crime?"
+"Mora perto da vítima?"
+"Devia para a vítima?"
+"Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
 #### Anything after a hash character on the same row is a comment
 
