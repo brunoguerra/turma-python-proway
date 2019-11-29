@@ -143,6 +143,15 @@ Se a média das provas for 10, informe que ele estará no Hall of fame of Python
   Usando a lista anterior, faça uma lista de objetos do tipo MeuNumero, com valor correspodente ao item da lista anterior.
 
 
+### Revisão Estrutura de Dados - Listas
+
+Utilizando listas faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+"Telefonou para a vítima?"
+"Esteve no local do crime?"
+"Mora perto da vítima?"
+"Devia para a vítima?"
+"Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
+
 #### Anything after a hash character on the same row is a comment
 
 #### (unless the hash is in a string)
