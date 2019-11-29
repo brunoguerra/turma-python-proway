@@ -33,9 +33,11 @@ class Zebra(Animal):
   def is_mammal(self):
     return True
 
-
+print('-'*20)
+print(type(Duck))
 
 my_duck = Duck()
+print(type(my_duck))
 my_duck.set_age(99)
 my_duck.quack()
 unknow_var = my_duck
@@ -48,6 +50,8 @@ my_fish = Fish()
 my_fish.swim()
 my_fish.set_age(1)
 my_fish.tell_age()
+print('-'*20)
+print(type(my_fish))
 
 my_zebra = Zebra()
 my_zebra.is_wild(True)
