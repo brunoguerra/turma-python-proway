@@ -8,9 +8,9 @@ for l in lista:
 
 print("Primeira lista", lista)  
 
-for g in lista:
+# for g in lista:
 
-    final = g * 2
-    lista.append(final)
+#     final = g * 2
+#     lista.append(final)
 
-print(lista)
+# print(lista)
